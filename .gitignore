@@ -1,0 +1,5 @@
+# These are the result of the neighbors.py file, so they do not need to be sent
+# over to the repository
+
+get-neighbors/words.cache
+get-neighbors/words.vec
